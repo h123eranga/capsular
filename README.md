@@ -1,5 +1,7 @@
 # Capsular
 
+![Capsular](https://raw.githubusercontent.com/h123eranga/capsular/master/assets/images/logo.png)
+
 Capsular is a web framework buil in TypeScript. The framework is encourage developers to think HTML in object oriented pattern. Capsular supports the HTML5 and CSS3 standards in the development. TypeScript is a popular language among the developers all around the world. Capsular makes the developers life easy and this is the tool everyone was expecting for many years to be in real. Happy Coding with Capsular.
 
   - Design the Templates in TypeScript
